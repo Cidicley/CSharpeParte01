@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula4\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

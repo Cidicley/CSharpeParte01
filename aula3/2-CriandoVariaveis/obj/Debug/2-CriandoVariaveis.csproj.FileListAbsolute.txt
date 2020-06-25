@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\User\Documents\Cursos\Formacao\DotNet\CSharp\parte-1\csharp-parte-1-primeiros-passos-aula3\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
